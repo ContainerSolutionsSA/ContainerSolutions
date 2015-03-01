@@ -1,0 +1,18 @@
+body {
+	padding: 50px;
+	padding-bottom: 150px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 50px;
+
+}
+
+/*.container {
+	color: white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}*/
+
+h1	{
+	text-align: center;
+}
